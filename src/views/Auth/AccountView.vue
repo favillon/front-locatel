@@ -14,7 +14,10 @@
       .then(({data}) => {
         dataUser.value = data
       })
-      .catch(error => console.log('Hubo un error'))
+      .catch( (error) => {
+        console.log('Hubo un error')
+        console.log(error);
+      } )
       .finally( () => {
         loading.value = false
       })

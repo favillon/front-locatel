@@ -1,4 +1,4 @@
-<script setup>  
+<script setup>
   import { FormKit } from '@formkit/vue'
 
   import { useAuthStore } from '../stores/auth';  
