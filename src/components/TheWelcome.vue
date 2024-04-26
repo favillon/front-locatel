@@ -1,0 +1,13 @@
+<script setup>
+
+</script>
+
+<template>
+  <div class="mx-auto mt-10 bg-white shadow">
+    <div class="mx-auto md:w-2/3 py-20 px-6">
+      <h1 class="text-3xl text-center">
+        Bienvenido a al portal de registro cuenta de ahorros
+      </h1>
+    </div>
+  </div>
+</template>
